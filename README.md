@@ -2,7 +2,9 @@
 
 ## Your system for spec-driven agentic development.
 
-[Agent OS](https://buildermethods.com/agent-os) transforms AI coding agents from confused interns into productive developers. With structured workflows that capture your standards, your stack, and the unique details of your codebase, Agent OS gives your agents the specs they need to ship quality code on the first try—not the fifth.
+This enhanced version builds on [Brian Casel's Agent OS](https://buildermethods.com/agent-os) foundation, adding advanced coordination patterns and extended documentation for enterprise-scale agentic development.
+
+**Original Agent OS** transforms AI coding agents from confused interns into productive developers. This **enhanced version** takes it further with multi-agent coordination, advanced planning systems, and comprehensive integration guides that scale from solo projects to team workflows.
 
 Use it with:
 
@@ -16,9 +18,25 @@ Use it with:
 
 ---
 
+### What's Enhanced in This Version
+
+🚀 **Multi-Agent Coordination**: Advanced patterns for coordinating multiple AI agents working together on complex projects.
+
+📋 **Multi-Stage Planning**: Comprehensive planning frameworks that break down enterprise-level features into manageable agent tasks.
+
+🔗 **Integration Guides**: Step-by-step guides for integrating Agent OS into existing development workflows and CI/CD pipelines.
+
+📊 **Database Standards**: Specialized guidelines for database design, migrations, and data modeling with AI agents.
+
+⚡ **Enhanced Analysis**: Deep codebase analysis tools and planning enhancements for large-scale refactoring and feature development.
+
+📚 **Extended Documentation**: Expanded templates, standards, and best practices covering edge cases and advanced scenarios.
+
 ### Documentation & Installation
 
-Docs, installation, useage, & best practices 👉 [It's all here](https://buildermethods.com/agent-os)
+**Original Agent OS** docs, installation, usage, & best practices 👉 [buildermethods.com/agent-os](https://buildermethods.com/agent-os)
+
+**This Enhanced Version** includes additional documentation in the `/instructions` and `/planning-enhancements` directories.
 
 ---
 

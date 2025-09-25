@@ -1,0 +1,152 @@
+{
+  "technical_domain": {
+    "architecture_questions": [
+      "What are the core system components and their interactions?",
+      "What are the scalability requirements and constraints?",
+      "What are the performance benchmarks and acceptance criteria?",
+      "What security considerations must be addressed?",
+      "What external dependencies and integration points exist?",
+      "What data flow patterns will be implemented?",
+      "What error handling and recovery mechanisms are needed?",
+      "What monitoring and observability requirements exist?"
+    ],
+    "implementation_questions": [
+      "What technologies and frameworks will be used?",
+      "What coding standards and conventions will be followed?",
+      "What testing strategies will be implemented?",
+      "What deployment and rollback procedures are required?",
+      "What database design and migration strategies are needed?",
+      "What API design principles will be followed?",
+      "What documentation requirements exist?",
+      "What code review and quality assurance processes are needed?"
+    ],
+    "constraint_questions": [
+      "What technical debt exists that must be addressed?",
+      "What legacy system compatibility requirements exist?",
+      "What resource limitations (compute, storage, network) apply?",
+      "What timeline and delivery constraints exist?",
+      "What team skill and capacity constraints apply?",
+      "What budget and cost constraints exist?",
+      "What regulatory and compliance requirements apply?",
+      "What third-party service dependencies and limitations exist?"
+    ]
+  },
+  "product_domain": {
+    "user_experience_questions": [
+      "Who are the primary and secondary user personas?",
+      "What are the core user journeys and workflows?",
+      "What are the key user pain points being addressed?",
+      "What are the success metrics for user satisfaction?",
+      "What accessibility requirements must be met?",
+      "What device and platform support is required?",
+      "What internationalization and localization needs exist?",
+      "What user onboarding and support strategies are needed?"
+    ],
+    "market_validation_questions": [
+      "What market research has been conducted?",
+      "Who are the primary competitors and their offerings?",
+      "What unique value proposition differentiates this product?",
+      "What pricing strategy will be implemented?",
+      "What go-to-market strategy is planned?",
+      "What customer acquisition channels will be used?",
+      "What customer retention strategies are needed?",
+      "What market size and growth projections exist?"
+    ],
+    "business_questions": [
+      "What are the key business objectives and KPIs?",
+      "What revenue model will be implemented?",
+      "What are the cost structures and budget allocations?",
+      "What are the regulatory and legal requirements?",
+      "What partnerships and integrations are planned?",
+      "What brand and marketing guidelines exist?",
+      "What customer support and service requirements exist?",
+      "What data privacy and security policies apply?"
+    ]
+  },
+  "research_domain": {
+    "methodology_questions": [
+      "What research questions are being investigated?",
+      "What hypotheses are being tested?",
+      "What research methodology will be employed?",
+      "What data collection methods will be used?",
+      "What sample size and selection criteria apply?",
+      "What statistical analysis methods will be used?",
+      "What controls and variables are being managed?",
+      "What validation and reproducibility measures are in place?"
+    ],
+    "literature_questions": [
+      "What existing research has been conducted in this area?",
+      "What gaps in current knowledge are being addressed?",
+      "What theoretical frameworks are being applied?",
+      "What conflicting findings exist in the literature?",
+      "What methodological approaches have been tried?",
+      "What recent developments affect this research area?",
+      "What key researchers and institutions are involved?",
+      "What publication and citation patterns exist?"
+    ],
+    "ethical_questions": [
+      "What ethical considerations apply to this research?",
+      "What informed consent requirements exist?",
+      "What data privacy and anonymization needs apply?",
+      "What potential risks to participants exist?",
+      "What institutional review board approvals are needed?",
+      "What data sharing and retention policies apply?",
+      "What potential conflicts of interest exist?",
+      "What social and environmental impacts are considered?"
+    ]
+  },
+  "cross_domain": {
+    "stakeholder_questions": [
+      "Who are the key stakeholders and decision makers?",
+      "What are the communication preferences and protocols?",
+      "What approval processes and sign-offs are required?",
+      "What reporting and status update requirements exist?",
+      "What escalation procedures are in place?",
+      "What change management processes apply?",
+      "What risk tolerance and mitigation strategies exist?",
+      "What success criteria and acceptance standards apply?"
+    ],
+    "resource_questions": [
+      "What human resources and expertise are available?",
+      "What budget and financial constraints exist?",
+      "What timeline and scheduling constraints apply?",
+      "What tools and technology resources are needed?",
+      "What physical space and infrastructure requirements exist?",
+      "What external vendor and contractor needs apply?",
+      "What training and development requirements exist?",
+      "What ongoing maintenance and support needs are anticipated?"
+    ],
+    "risk_questions": [
+      "What are the primary risks and their impact levels?",
+      "What risk mitigation strategies are planned?",
+      "What contingency plans exist for major risks?",
+      "What early warning indicators should be monitored?",
+      "What dependencies create potential points of failure?",
+      "What external factors could impact success?",
+      "What quality assurance and testing strategies exist?",
+      "What lessons learned from similar projects apply?"
+    ]
+  },
+  "rapid_iteration": {
+    "checkpoint_questions": [
+      "What specific deliverable will be completed?",
+      "What success criteria must be met?",
+      "What feedback mechanisms are in place?",
+      "What adjustments or pivots might be needed?",
+      "What blockers or risks need to be addressed?",
+      "What resources or support are required?",
+      "What communication and reporting is needed?",
+      "What preparation is required for the next phase?"
+    ],
+    "validation_questions": [
+      "How will the deliverable be tested or validated?",
+      "What evidence will demonstrate success?",
+      "Who will provide feedback and approval?",
+      "What metrics will be measured and tracked?",
+      "What comparison benchmarks or baselines exist?",
+      "What user or stakeholder testing will be conducted?",
+      "What peer review or expert evaluation is needed?",
+      "What documentation or artifacts will be produced?"
+    ]
+  }
+}

@@ -7,9 +7,9 @@ agent_os_version: 1.4.1
 
 agents:
   claude_code:
-    enabled: false
+    enabled: true
   cursor:
-    enabled: false
+    enabled: true
 
 project_types:
   default:

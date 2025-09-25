@@ -1,0 +1,151 @@
+{
+  "technical_focus_template": {
+    "metadata": {
+      "template_name": "Technical Implementation Template",
+      "focus_area": "technical",
+      "iteration_speed": "fast",
+      "complexity": "high"
+    },
+    "sections": {
+      "technical_requirements": {
+        "architecture_constraints": [],
+        "performance_targets": {},
+        "security_requirements": [],
+        "integration_points": [],
+        "technology_stack": []
+      },
+      "implementation_phases": {
+        "phase_1": {
+          "duration": "sprint_1",
+          "deliverables": [],
+          "success_criteria": [],
+          "checkpoint": "technical_proof_of_concept"
+        },
+        "phase_2": {
+          "duration": "sprint_2",
+          "deliverables": [],
+          "success_criteria": [],
+          "checkpoint": "integration_complete"
+        },
+        "phase_3": {
+          "duration": "sprint_3",
+          "deliverables": [],
+          "success_criteria": [],
+          "checkpoint": "production_ready"
+        }
+      },
+      "constraints": {
+        "technical_debt": [],
+        "legacy_system_compatibility": [],
+        "resource_limitations": [],
+        "timeline_constraints": []
+      },
+      "rapid_iteration_checkpoints": [
+        "Day 1: Architecture decision validated",
+        "Day 3: Core functionality prototype",
+        "Day 5: Integration testing complete",
+        "Day 7: Performance benchmarks met"
+      ]
+    }
+  },
+  "product_focus_template": {
+    "metadata": {
+      "template_name": "Product Development Template",
+      "focus_area": "product",
+      "iteration_speed": "fast",
+      "complexity": "medium"
+    },
+    "sections": {
+      "product_requirements": {
+        "user_personas": [],
+        "user_stories": [],
+        "acceptance_criteria": [],
+        "business_metrics": {},
+        "market_validation": []
+      },
+      "development_phases": {
+        "discovery": {
+          "duration": "1_week",
+          "deliverables": ["user_research", "market_analysis", "competitive_analysis"],
+          "success_criteria": ["validated_problem_statement", "target_user_defined"],
+          "checkpoint": "problem_solution_fit"
+        },
+        "mvp_development": {
+          "duration": "2_weeks",
+          "deliverables": ["core_feature_set", "basic_ui", "user_testing_framework"],
+          "success_criteria": ["feature_complete", "usability_tested"],
+          "checkpoint": "mvp_ready"
+        },
+        "market_validation": {
+          "duration": "1_week",
+          "deliverables": ["beta_release", "user_feedback", "metrics_dashboard"],
+          "success_criteria": ["positive_user_feedback", "key_metrics_met"],
+          "checkpoint": "product_market_fit"
+        }
+      },
+      "constraints": {
+        "budget_limitations": [],
+        "time_to_market": [],
+        "competitive_pressure": [],
+        "regulatory_compliance": []
+      },
+      "rapid_iteration_checkpoints": [
+        "Day 2: User interviews complete",
+        "Day 4: MVP scope defined",
+        "Day 8: Core features implemented",
+        "Day 12: User testing results analyzed",
+        "Day 14: Go/no-go decision made"
+      ]
+    }
+  },
+  "research_focus_template": {
+    "metadata": {
+      "template_name": "Research & Innovation Template",
+      "focus_area": "research",
+      "iteration_speed": "medium",
+      "complexity": "high"
+    },
+    "sections": {
+      "research_requirements": {
+        "research_questions": [],
+        "hypotheses": [],
+        "success_metrics": {},
+        "literature_review": [],
+        "methodology": []
+      },
+      "investigation_phases": {
+        "exploration": {
+          "duration": "2_weeks",
+          "deliverables": ["problem_analysis", "solution_landscape", "feasibility_study"],
+          "success_criteria": ["clear_research_scope", "methodology_validated"],
+          "checkpoint": "research_plan_approved"
+        },
+        "experimentation": {
+          "duration": "3_weeks",
+          "deliverables": ["prototype_experiments", "data_collection", "preliminary_results"],
+          "success_criteria": ["hypothesis_tested", "data_quality_validated"],
+          "checkpoint": "experimental_results_available"
+        },
+        "validation": {
+          "duration": "2_weeks",
+          "deliverables": ["peer_review", "reproducible_results", "publication_draft"],
+          "success_criteria": ["results_validated", "methodology_reproducible"],
+          "checkpoint": "research_complete"
+        }
+      },
+      "constraints": {
+        "ethical_considerations": [],
+        "data_availability": [],
+        "computational_resources": [],
+        "publication_timeline": []
+      },
+      "rapid_iteration_checkpoints": [
+        "Week 1: Literature review complete",
+        "Week 2: Experimental design validated",
+        "Week 4: Initial results available",
+        "Week 6: Results peer-reviewed",
+        "Week 7: Final documentation complete"
+      ]
+    }
+  }
+}

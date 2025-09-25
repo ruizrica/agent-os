@@ -4,28 +4,38 @@
 
 Global tech stack defaults for Agent OS projects, overridable in project-specific `.agent-os/product/tech-stack.md`.
 
-- App Framework: Ruby on Rails 8.0+
-- Language: Ruby 3.2+
-- Primary Database: PostgreSQL 17+
-- ORM: Active Record
-- JavaScript Framework: React latest stable
+### Backend Development
+- Primary Language: TypeScript
+- Runtime: Node.js 22 LTS
+- Framework: Firebase Functions / Express.js / Next.js API Routes
+- Database: Firebase Firestore / PostgreSQL (when needed)
+- Authentication: Firebase Auth
+- Real-time Features: Firebase Realtime Database
+- File Storage: Firebase Storage / AWS S3
+- Hosting: Firebase Hosting / AWS / Cloudflare
+
+### Frontend Development
+- Primary Language: TypeScript
+- Framework: React latest stable / Next.js
 - Build Tool: Vite
-- Import Strategy: Node.js modules
-- Package Manager: npm
-- Node Version: 22 LTS
+- Package Manager: npm / pnpm
 - CSS Framework: TailwindCSS 4.0+
-- UI Components: Instrumental Components latest
-- UI Installation: Via development gems group
+- UI Components: shadcn/ui components
+- Icons: Lucide React components
 - Font Provider: Google Fonts
 - Font Loading: Self-hosted for performance
-- Icons: Lucide React components
-- Application Hosting: Digital Ocean App Platform/Droplets
-- Hosting Region: Primary region based on user base
-- Database Hosting: Digital Ocean Managed PostgreSQL
-- Database Backups: Daily automated
-- Asset Storage: Amazon S3
-- CDN: CloudFront
-- Asset Access: Private with signed URLs
+- State Management: Zustand / Redux Toolkit
+
+### Mobile Development
+- iOS: Swift with Xcode
+- Android: Kotlin with Android Studio
+- Cross-platform: React Native (when appropriate)
+- Backend Integration: Firebase / REST APIs
+
+### Infrastructure & Deployment
+- Primary Platform: Firebase
+- Secondary Platforms: AWS, Cloudflare (as needed)
+- CDN: Cloudflare / CloudFront
 - CI/CD Platform: GitHub Actions
 - CI/CD Trigger: Push to main/staging branches
 - Tests: Run before deployment
